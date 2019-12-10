@@ -34,7 +34,7 @@
          * Near a school
          * Near a hospital
          * Near a park
-       *  **Non-Traditional**_
+       *  **Non-Traditional**
            * Not too much noise near his new house
            * Sufficient parking
            * Reliable utilities
