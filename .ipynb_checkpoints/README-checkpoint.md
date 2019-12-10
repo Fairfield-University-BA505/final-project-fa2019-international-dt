@@ -38,5 +38,5 @@
 
 # To enjoy our project please click on the Gif below to view it on nbviewer by jupyter.
 
-[![](https://github.com/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/mapgif.gif)](https://github.com/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/NYC_Relocation.ipynb)
+[![](https://github.com/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/mapgif.gif)](https://nbviewer.jupyter.org/github/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/NYC_Relocation.ipynb)
 
