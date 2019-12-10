@@ -21,16 +21,27 @@
 ##### BA-505
 ##### Professor: Dr. Jie Tao
 ###### Authors: Anthonie Hollaar, Anirudh Vajjah, Bryan Nicholls, Faris Alenezy
-# The client 
+# The client:
   * Background of our client <br>
-    * Our client has a family, with a young child, 5 years of age, and wants to  move to New York,  <br> but has no clue where in New York City he wants to relocate, but he has the following preferences: 
-     * Not too much noise near his new house
-     * Near a school
-     * Near a hospital
-     * Near a park
-     * Close to the airport
+    * Our client has a family, with a young child, 5 years of age, and wants to  move to New York,  <br> but has no clue where in New York City he wants to relocate. 
+    
+    <br> Our client has the following preferences: 
 
-# This project will be dealling with 
+       * __$Traditional$__
+         * Price range: 500-750k
+         * House or Apartment: any
+         * NUmber of Beds and Bath: 2bd ,1 bath minimum
+         * Near a school
+         * Near a hospital
+         * Near a park
+       *  __$Non-Traditional$__
+         * Not too much noise near his new house
+         * Sufficient parking
+         * Reliable utilities
+         * Safe
+         * Nice roads
+
+# This project will be dealling with: 
 - Getting the Data
 - Cleaning the data
 - Doing some initial analysis
@@ -40,7 +51,7 @@
 
 [![](https://github.com/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/mapgif.gif)](https://nbviewer.jupyter.org/github/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/NYC_Relocation.ipynb)
 
-# source 
+# sources:
 * We gathered four Datasets to do our analysis
   * [List of complaints made from 311 calls made in NYC over the past 12 months (Nov - 1 - 2018 till Nov - 1 - 2019)](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9 "Open Data NYC")
   * [Schools information](https://capitalplanning.nyc.gov/map/facilities#10/40.7128/-74.0807 "NYC Capital Planning Platform")
