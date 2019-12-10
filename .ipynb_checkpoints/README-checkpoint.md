@@ -27,19 +27,19 @@
     
     <br> Our client has the following preferences: 
 
-       * __$Traditional$__
+       * **Traditional**
          * Price range: 500-750k
          * House or Apartment: any
-         * NUmber of Beds and Bath: 2bd ,1 bath minimum
+         * Number of Beds and Bath: 2bd ,1 bath minimum
          * Near a school
          * Near a hospital
          * Near a park
-       *  __$Non-Traditional$__
-         * Not too much noise near his new house
-         * Sufficient parking
-         * Reliable utilities
-         * Safe
-         * Nice roads
+       *  **Non-Traditional**_
+           * Not too much noise near his new house
+           * Sufficient parking
+           * Reliable utilities
+           * Safe
+           * Nice roads
 
 # This project will be dealling with: 
 - Getting the Data
