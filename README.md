@@ -40,3 +40,11 @@
 
 [![](https://github.com/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/mapgif.gif)](https://nbviewer.jupyter.org/github/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/NYC_Relocation.ipynb)
 
+# source 
+* We gathered four Datasets to do our analysis
+  * [List of complaints made from 311 calls made in NYC over the past 12 months (Nov - 1 - 2018 till Nov - 1 - 2019)](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9 "Open Data NYC")
+  * [Schools information](https://capitalplanning.nyc.gov/map/facilities#10/40.7128/-74.0807 "NYC Capital Planning Platform")
+  * [ Hospitals](https://capitalplanning.nyc.gov/map/facilities#10/40.7128/-74.0807 "NYC Capital Planning Platform")
+  * [Parks ](https://capitalplanning.nyc.gov/map/facilities#10/40.7128/-74.0807 "NYC Capital Planning Platform")
+---
+
